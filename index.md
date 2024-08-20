@@ -5,7 +5,7 @@
 ### Gun Violence Data
 
 [Project 1 Title]
-<img src="result.jpg?raw=true"/>
+<img src="images/result.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
