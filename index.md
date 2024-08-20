@@ -30,7 +30,22 @@ Rockbuster Stealth LLC is shifting from physical movie rentals to online streami
 [SQL Codes (Click on view Raw)](https://github.com/Ezeugonna/Obi_SQL/blob/main/Exercise%203.10%20Excel%20Sheet.xlsx/)
 <img src="images/Geography.png?raw=true"/>
 
+---
 
+### Infleunza Season
+
+Flu season increases hospitalizations, requiring additional medical staff. Staffing agencies provide temporary workers to handle the surge.
+<img src="images/Incident Count.png?raw=true"/>
+
+---
+[Project Summary](/pdf/AdvancedAnalytics&DashboardDesign.pdf)
+<img src="images/Number of Casualties.png?raw=true"/>
+
+---
+[Tableau Gun Violence Dashboard](https://public.tableau.com/app/profile/obinwanne.alisigwe/viz/FinalProjectDashboard_17216771860780/FinalDashboard/)
+<img src="images/Time Series.png?raw=true"/>
+
+---
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
