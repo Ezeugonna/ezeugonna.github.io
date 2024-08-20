@@ -38,11 +38,11 @@ Flu season increases hospitalizations, requiring additional medical staff. Staff
 <img src="images/Map.png?raw=true"/>
 
 ---
-[Project Summary](/pdf/AdvancedAnalytics&DashboardDesign.pdf)
+[Project Summary](/pdf/Presentation.pdf)
 <img src="images/Treemap.png?raw=true"/>
 
 ---
-[Tableau Dashboard](https://public.tableau.com/app/profile/obinwanne.alisigwe/viz/Frequencytable/Story/)
+[YouTube Presentation](https://www.youtube.com/watch?v=pI7QyYApHpo/)
 <img src="images/Charts.png?raw=true"/>
 
 ---
