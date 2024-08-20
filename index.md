@@ -27,7 +27,7 @@ Rockbuster Stealth LLC is shifting from physical movie rentals to online streami
 <img src="images/Top 10.png?raw=true"/>
 
 ---
-[Tableau Gun Violence Dashboard](ExcelSheet.xlsx)
+[Tableau Gun Violence Dashboard](https://github.com/Ezeugonna/Obi_SQL/blob/main/Exercise%203.10%20Excel%20Sheet.xlsx/)
 <img src="images/Geography.png?raw=true"/>
 
 
