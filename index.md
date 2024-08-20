@@ -17,6 +17,20 @@ To understand gun violence trends in the US by analyzing detailed data from 2013
 
 ---
 
+### Rockburster Stealter 
+
+Rockbuster Stealth LLC is shifting from physical movie rentals to online streaming to compete with major platforms. They plan to leverage their existing movie library, offer a diverse content mix, and build a user-friendly platform to attract customers.
+<img src="images/Incident Count.png?raw=true"/>
+
+---
+[Project Summary](/pdf/AdvancedAnalytics&DashboardDesign.pdf)
+<img src="images/Number of Casualties.png?raw=true"/>
+
+---
+[Tableau Gun Violence Dashboard](https://public.tableau.com/app/profile/obinwanne.alisigwe/viz/FinalProjectDashboard_17216771860780/FinalDashboard/)
+<img src="images/Time Series.png?raw=true"/>
+
+
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
