@@ -4,7 +4,7 @@
 
 ### Gun Violence Data
 
-[To understand gun violence trends in the US by analyzing detailed data from 2013 to 2018.]
+To understand gun violence trends in the US by analyzing detailed data from 2013 to 2018.
 <img src="images/result.jpg?raw=true"/>
 
 ---
