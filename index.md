@@ -23,7 +23,7 @@ Rockbuster Stealth LLC is shifting from physical movie rentals to online streami
 <img src="images/Top 10 Countries.png?raw=true"/>
 
 ---
-[Project Summary](/pdf/AdvancedAnalytics&DashboardDesign.pdf)
+[Project Summary](/pdf/SQLPresentation.pdf)
 <img src="images/Top 10.png?raw=true"/>
 
 ---
