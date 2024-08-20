@@ -12,8 +12,8 @@ To understand gun violence trends in the US by analyzing detailed data from 2013
 <img src="images/Number of Casualties.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Tableau Gun Violence Dashboard](https://public.tableau.com/app/profile/obinwanne.alisigwe/viz/FinalProjectDashboard_17216771860780/FinalDashboard/)
+<img src="images/Time Series.png?raw=true"/>
 
 ---
 
