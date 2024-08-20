@@ -8,7 +8,7 @@ To understand gun violence trends in the US by analyzing detailed data from 2013
 <img src="images/Incident Count.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/AdvancedAnalytics&Dashboard.pdf)
+[Project 2 Title](/pdf/AdvancedAnalytics&DashboardDesign.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
