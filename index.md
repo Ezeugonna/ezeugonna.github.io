@@ -35,15 +35,15 @@ Rockbuster Stealth LLC is shifting from physical movie rentals to online streami
 ### Infleunza Season
 
 Flu season increases hospitalizations, requiring additional medical staff. Staffing agencies provide temporary workers to handle the surge.
-<img src="images/Incident Count.png?raw=true"/>
+<img src="images/Map.png?raw=true"/>
 
 ---
 [Project Summary](/pdf/AdvancedAnalytics&DashboardDesign.pdf)
-<img src="images/Number of Casualties.png?raw=true"/>
+<img src="images/Treemap.png?raw=true"/>
 
 ---
-[Tableau Gun Violence Dashboard](https://public.tableau.com/app/profile/obinwanne.alisigwe/viz/FinalProjectDashboard_17216771860780/FinalDashboard/)
-<img src="images/Time Series.png?raw=true"/>
+[Tableau Dashboard](https://public.tableau.com/app/profile/obinwanne.alisigwe/viz/Frequencytable/Story/)
+<img src="images/Charts.png?raw=true"/>
 
 ---
 ### Category Name 2
