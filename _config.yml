@@ -16,7 +16,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   
   <br><a href="https://www.linkedin.com/in/obinwanne-alisigwe-022a0568/">View My LinkedIn Profile</a><br>
   
-remote_theme: pages-themes/time-machine@v0.2.0
+remote_theme: pages-themes/architech@v0.2.0
 plugins:
 - jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
