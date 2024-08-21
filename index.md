@@ -1,6 +1,4 @@
 
-[Resume](/pdf/Obinwanne-Alisigwe-Resume.pdf)
-
 ## Portfolio
 
 ---
