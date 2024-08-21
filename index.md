@@ -1,4 +1,10 @@
 
+### Proficiencies  
+
+<img src="images/Skills.png?raw=true"/>
+
+---
+
 ## Portfolio
 
 ---
