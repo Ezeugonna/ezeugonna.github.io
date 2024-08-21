@@ -1,6 +1,6 @@
 title: Obinwanne Alisigwe # your name (or website title) here
 # logo: "/images/Picture.png?raw=true" # your photo (or logo) here
-<img src='/images/Picture.png' style='width:100px; height:100px;' alt='Logo'>"
+logo: "<img src='/images/Picture.png' style='width:100px; height:100px;' alt='Logo'>"
 description: > # your text below (remove <br> elements if you don't need line breaks)
 
   <br>I’m Alisigwe Obinwanne, a data analyst with a strong background in petroleum engineering, technical analytics and project management. I recently transitioned from technical implementation roles to data analytics, driven by a passion for leveraging data to solve complex problems.<br>
