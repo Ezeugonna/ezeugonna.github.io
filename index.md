@@ -54,7 +54,7 @@ Flu season increases hospitalizations, requiring additional medical staff. Staff
 
 ---
 
-<p>You can reach me via email at <a href="mailto:your.email@example.com">obialisigwe@gmail.com</a>.</p>
+<p>You can reach me via email at <a href="mailto:your.email@example.com">obialisigwe@gmail.com</a></p>
 <!--### Contact
 
 
