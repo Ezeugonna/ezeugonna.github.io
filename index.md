@@ -47,7 +47,7 @@ Flu season increases hospitalizations, requiring additional medical staff. Staff
 <img src="images/Charts.png?raw=true"/>
 
 ---
-### Category Name 2
+<!--### Category Name 2
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -61,5 +61,5 @@ Flu season increases hospitalizations, requiring additional medical staff. Staff
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<!--p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
