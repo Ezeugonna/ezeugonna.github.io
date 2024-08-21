@@ -53,10 +53,10 @@ Flu season increases hospitalizations, requiring additional medical staff. Staff
 <img src="images/Charts.png?raw=true"/>
 
 ---
-<!--### Category Name 2
+### Contact
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- [E-mail](obialisigwe@gmail.com/)
+<!--- [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
