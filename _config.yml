@@ -11,6 +11,8 @@ description: > # your text below (remove <br> elements if you don't need line br
 
   
   <br><a href="https://www.linkedin.com/in/obinwanne-alisigwe-022a0568/">View My LinkedIn Profile</a><br>
+
+  email: "obialisigwe@gmail.com"  # Add your email address here
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
