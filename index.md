@@ -1,19 +1,12 @@
-
 <img src="images/Banner.png?raw=true"/>
 
+---
 
 ## About Me  
-
 
 A data analyst with a strong background in petroleum engineering, technical analytics and project management. I recently transitioned from technical implementation roles to data analytics, driven by a passion for leveraging data to solve complex problems. My diverse experience in the oil and gas industry, combined with my recent training in data analytics, allows me to offer unique insights and data-driven solutions. I’m eager to bring my analytical skills, technical knowledge, and project management expertise to a forward-thinking company, helping drive strategic decision-making and innovation.
 
 Looking for ways to drive innovation and make data-informed decisions? Connect with me to explore how my skills and experiences can contribute to your team's success.
-
-
-
-
-
-
 
 
 ## Proficiencies  
